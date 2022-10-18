@@ -1,0 +1,10 @@
+﻿{
+	"Name": "[AHM] StarAmy's Bison Rules",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds configuration of my custom farm animals for Animal Husbandry Mod.",
+	"UniqueID": "StarAmy.BisonRules",
+	"ContentPackFor": {
+		"UniqueID": "DIGUS.ANIMALHUSBANDRYMOD"
+	}
+}

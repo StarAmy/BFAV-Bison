@@ -1,0 +1,44 @@
+{
+	"Format": "1.0",
+	"Categories": [
+		{
+			"Action": "Create",
+			"Category": "Bison",
+			"Types": [
+				{
+					"Type": "Male Bison",
+					"DeluxeProduceLuck": 0.2,
+					"Data": "1/5/Manure/Bison Horn/none/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/Bison Meat/20000/Male Bison/Barn",
+					"Sprites": {
+						"Adult": "assets/MaleBison.png",
+						"Baby": "assets/BabyBison.png"
+					}
+				},
+				{
+					"Type": "Female Bison",
+					"DeluxeProduceLuck": 0.2,
+					"Data": "1/5/Bison Wool/Bison Wool/none/36/64/64/64/36/64/64/64/0/false/Barn/32/32/32/32/15/5/null/Bison Meat/20000/Female Bison/Barn",
+					"Sprites": {
+						"Adult": "assets/FemaleBison.png",
+						"Baby": "assets/BabyBison.png"
+					}
+				},
+			],
+			"Buildings": [
+				"Deluxe Barn",
+			],
+			"AnimalShop": {
+				"Name": "Bison",
+				"Description": "Bison for your ranch",
+				"Price": 18000,
+				"Icon": "assets\\animal_shop_bison.png",
+				"Exclude": [
+				]
+			},
+			"ForceRemoveFromShop": false,
+			"ForceOverrideTypes": true,
+			"ForceOverrideBuildings": true,
+			"ForceOverrideExclude": true
+		},
+	]
+}

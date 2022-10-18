@@ -1,0 +1,47 @@
+{
+    "Name": "Bison Meatloaf",
+    "Description": "A cozy taste of home, now slightly healthier.",
+    "Category": "Cooking",
+    "Edibility": 38,
+    "Price": 940,
+    "IsColored": false,
+     "EdibleBuffs": 
+         {
+            "Farming": 0,
+            "Fishing": 0,
+            "Mining": 1,
+            "Luck": 1,
+            "Duration": 90,
+            "Foraging": 0,
+            "MaxStamina": 0,
+            "MagnetRadius": 0,
+            "Speed": 0,
+            "Defense": 0,
+            "Attack": 0,
+        },
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Vinegar",
+             "Count": 1,
+              },
+             {
+             "Object": "Tomato",
+             "Count": 1,
+            },
+            {
+             "Object": "Bison Meat",
+             "Count": 1,
+            }           
+            ],
+        "IsDefault":true,
+        "CanPurchase": false,
+            },    
+    "GiftTastes":
+    {
+        "Love": ["Harvey"],
+		"Neutral": ["Alex", "Elliot", "Abigail", "Sam", "Sebastian", "Shane", "Marnie", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Gus", "Jas", "Jodie", "Kent", "Leo", "Lewis", "Linus", "Pam", "Pierre", "Robin", "Vincent", "Willy", "Wizard"]
+    },
+}

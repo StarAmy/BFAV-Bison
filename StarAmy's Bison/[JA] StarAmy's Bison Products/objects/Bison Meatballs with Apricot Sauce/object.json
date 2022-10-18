@@ -1,0 +1,47 @@
+{
+    "Name": "Bison Meatballs with Apricot Sauce",
+    "Description": "Tasty meatballs sitting in a tangy apricot sauce.",
+    "Category": "Cooking",
+    "Edibility": 40,
+    "Price": 930,
+    "IsColored": false,
+     "EdibleBuffs": 
+         {
+            "Farming": 1,
+            "Fishing": 0,
+            "Mining": 0,
+            "Luck": 0,
+            "Duration": 90,
+            "Foraging": 1,
+            "MaxStamina": 0,
+            "MagnetRadius": 0,
+            "Speed": 0,
+            "Defense": 0,
+            "Attack": 0,
+        },
+    "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Apricot",
+             "Count": 1,
+              },
+             {
+             "Object": "Honey",
+             "Count": 1,
+            },
+            {
+             "Object": "Bison Meat",
+             "Count": 1,
+            }           
+            ],
+        "IsDefault":true,
+        "CanPurchase": false,
+            },    
+    "GiftTastes":
+    {
+        "Love": ["Alex"],
+		"Neutral": ["Abigail", "Elliot", "Harvey", "Sam", "Sebastian", "Shane", "Marnie", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Gus", "Jas", "Jodie", "Kent", "Leo", "Lewis", "Linus", "Pam", "Pierre", "Robin", "Vincent", "Willy", "Wizard"]
+    },
+}

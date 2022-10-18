@@ -1,0 +1,28 @@
+[
+     {
+      "Name": "Male Bison",
+      "MinimalNumberOfMeat": 12,
+      "MaximumNumberOfMeat": 24,
+      "MinimumDaysBetweenTreats": 6,
+      "LikedTreats": [
+        399,
+    259,
+    22
+      ],
+      "MinimumDaysUtillBirth": null,
+      "CanUseDeluxeItemForPregnancy": false
+    },
+    {
+      "Name": "Female Bison",
+      "MinimalNumberOfMeat": 12,
+      "MaximumNumberOfMeat": 24,
+      "MinimumDaysBetweenTreats": 6,
+      "LikedTreats": [
+        399,
+    259,
+    22
+      ],
+      "MinimumDaysUtillBirth": 14,
+      "CanUseDeluxeItemForPregnancy": false
+    },
+]

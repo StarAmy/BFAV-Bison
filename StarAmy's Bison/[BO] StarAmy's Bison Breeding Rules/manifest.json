@@ -1,0 +1,10 @@
+﻿{
+	"Name": "[BO] StarAmy's Bison Breeding Rules",
+	"Author": "StarAmy",
+	"Version": "1.0.0",
+	"Description": "Adds configuration of my custom farm animals for Breeding Overhaul.",
+	"UniqueID": "StarAmy.BisonBreeding",
+	"ContentPackFor": {
+		"UniqueID": "StarAmy.BreedingOverhaul"
+	}
+}

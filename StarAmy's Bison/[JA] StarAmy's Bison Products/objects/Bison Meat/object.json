@@ -1,0 +1,15 @@
+{
+    "Name": "Bison Meat",
+    "Description": "Rich, lean red meat, great for stews, roasts, or grinding.",
+    "Category": "AnimalGoods",
+    "Edibility": 25,
+    "Price": 780,
+    "IsColored": false,
+    "Recipe": null,
+    "CanPurchase": false, 
+    "GiftTastes":
+    {
+        "Like": [ "Alex", "Gus" ],
+		"Neutral": [ "Elliot", "Harvey", "Sam", "Sebastian", "Shane", "Marnie", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Abigail", "Jas", "Jodie", "Kent", "Leo", "Lewis", "Linus", "Pam", "Pierre", "Robin", "Vincent", "Willy", "Wizard"]
+    },
+}

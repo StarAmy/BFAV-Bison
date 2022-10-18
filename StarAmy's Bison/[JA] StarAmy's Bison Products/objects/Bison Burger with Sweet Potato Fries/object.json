@@ -1,0 +1,47 @@
+{
+    "Name": "Bison Burger with Sweet Potato Fries",
+    "Description": "Sweet fries perfectly offset the rich burger.",
+    "Category": "Cooking",
+    "Edibility": 63,
+    "Price": 1000,
+    "IsColored": false,
+     "EdibleBuffs": 
+         {
+            "Farming": 0,
+            "Fishing": 0,
+            "Mining": 0,
+            "Luck": 1,
+            "Duration": 90,
+            "Foraging": 0,
+            "MaxStamina": 0,
+            "MagnetRadius": 0,
+            "Speed": 0,
+            "Defense": 1,
+            "Attack": 1,
+        },
+     "Recipe": { 
+        "ResultCount": 1,
+         "Ingredients": 
+          [
+           {
+             "Object": "Bread",
+             "Count": 1,
+              },
+             {
+             "Object": "Yam",
+             "Count": 1,
+            },
+            {
+             "Object": "Bison Meat",
+             "Count": 1,
+            }           
+            ],
+        "IsDefault":true,
+        "CanPurchase": false,
+            },    
+    "GiftTastes":
+    {
+        "Love": ["Gus"],
+		"Neutral": ["Alex", "Elliot", "Harvey", "Sam", "Sebastian", "Shane", "Marnie", "Emily", "Haley", "Leah", "Maru", "Penny", "Caroline", "Clint", "Demetrius", "Evelyn", "George", "Abigail", "Jas", "Jodie", "Kent", "Leo", "Lewis", "Linus", "Pam", "Pierre", "Robin", "Vincent", "Willy", "Wizard"]
+    },
+}
