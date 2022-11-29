@@ -1,6 +1,6 @@
 [
 	{ // All lines that have a default value can be removed and that value will be used.
-		"ProducerName": "Recycling Machine", //Name of the producer. Required.
+		"ProducerName": "Genetic Extractor", //Name of the producer. Required.
 		"InputIdentifier": "Bison Horn", //The identifier of the input. Can be the Index of the object, the category of the object if it's a negative value. Can be the name of the object, or a context_tag of the object. Can be null only if there is a NoInputStartMode for the producer. Default is null.
 		"InputStack": 1, //The required stack of the input. Default value is 1.
 		"MinutesUntilReady": 200, //The amount of minutes it takes to produce. Should be divisible by 10. Required.

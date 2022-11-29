@@ -1,7 +1,7 @@
 {
   "Name": "[BFAV] StarAmy's Bison",
   "Author": "StarAmy",
-  "Version": "1.0",
+  "Version": "1.1.0",
   "Description": "Adds bison as barn animals using BFAV.",
   "UniqueID": "StarAmy.Bison",
   "ContentPackFor": {
